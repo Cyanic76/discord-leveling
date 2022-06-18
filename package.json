@@ -1,13 +1,13 @@
 {
 	"name": "discord-leveling",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "JavaScript leveling/XP bot based on quick.db.",
 	"main": "bot.js",
 	"scripts": {
-		"start: "node bot.js"
+		"start": "node bot.js"
 	},
 	"dependencies": {
-		"discord.js": "13.3.1",
+		"discord.js": "^13.8.0",
 		"quick.db": "^7.1.2"
 	},
 	"engines": {
